@@ -23,7 +23,7 @@ Sudoku Solver using Convolution Neural Network and opencv. This project extract 
 ## CNN Model for digit prediction
 Keras MNIST dataset trained with CNN to build the model. 
 
-** Accuracy of the model is 96% **
+**Accuracy of the model is 96%**
 
 ### Sample prediction from MNIST
 ![predictions](images/predictions.png)

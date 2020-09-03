@@ -7,7 +7,10 @@ Sudoku Solver using Convolution Neural Network and opencv. This project extract 
 - Python opencv
 - Tensorflow
 
-## Working
+## Working on opencv
+
+`pip install opencv-python`
+
 ### Input image of Sudoku
 ![Sudoku](images/Sudoku.jpeg)
 
@@ -17,3 +20,10 @@ Sudoku Solver using Convolution Neural Network and opencv. This project extract 
 ### Extracted Image
 ![Extracted Image](images/extract_sudoku.jpg)
 
+## CNN Model for digit prediction
+Keras MNIST dataset trained with CNN to build the model. 
+
+** Accuracy of the model is 96% **
+
+### Sample prediction from MNIST
+![predictions](images/predictions.png)
